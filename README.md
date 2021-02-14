@@ -10,10 +10,10 @@ The primary objective of this assignment is to help you get acquainted with Rspe
 3. Push the code to the origin/development branch.
 4. Again pull the changes into your local test branch.
 5. Working in the same, write a minimum of 4 relevant rspec-capybara tests (visiting, auto-filling form, navigating etc) for the book collection application:
-  *(a) Unit Testing the model.
-  *(b) Integrating Testing the controller, e.g. the user will see the flash notice after you enter the book information and click the submit button.
-  *(c) Acceptance Testing to make sure user requirement has been implemented, e.g. the user story: "As a user, I would like to add a new book".
-  *(d) Implementing a test double: stub, mock, or fake. For example: Implement a stub to mimic database access for a particular test.
+   * (a) Unit Testing the model.
+   * (b) Integrating Testing the controller, e.g. the user will see the flash notice after you enter the book information and click the submit button.
+   * (c) Acceptance Testing to make sure user requirement has been implemented, e.g. the user story: "As a user, I would like to add a new book".
+   * (d) Implementing a test double: stub, mock, or fake. For example: Implement a stub to mimic database access for a particular test.
 6. Run the rspec command to validate (Make sure you are on the root project folder)
 7. Add your changes to the local staging area ```$ git add .```
 8. Push the code to the origin/test branch.
