@@ -8,7 +8,7 @@ The primary objective of this assignment is to help you get acquainted with Rspe
 1. Clone this repository ```$ git clone <url>``` into your local development branch. Working in the same branch, add your book collection application that you designed in assignment 1.
 2. Add your changes to the local staging area ```$ git add .```
 3. Push the code to the Github origin/development branch.
-4. Again pull the changes into your local test branch.
+4. Pull the changes into your local test branch.
 5. Working in the same branch, write a minimum of 4 relevant rspec-capybara tests (visiting, auto-filling form, navigating etc) for the book collection application:
    * (a) Unit Testing the model.
    * (b) Integrating Testing the controller, e.g. the user will see the flash notice after you enter the book information and click the submit button.
